@@ -1,2 +1,3 @@
 # SweetRainRewrite
-in JS
+
+don't expect this to be done anytime soon lol
